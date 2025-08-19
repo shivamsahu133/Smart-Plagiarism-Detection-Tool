@@ -94,13 +94,7 @@ Fork the repo
 
 Create a new branch (feature-new)
 
-Commit changes and open a Pull Request
-
-📜 License
-
-This project is licensed under the MIT License – you are free to use, modify, and distribute it with attribution.
-
-👨‍💻 Author
+Commit changes and open a Pull Request.
 
 Shivam Kumar Sahu
 
